@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Zoom &mdash; CSE 311 22au</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <!-- This script dynamically loads CSS and JS files from the course base directory -->
+    <!-- Only edit if you want to change the paths to your JS/CSS sources -->
+    <script>
+      // Get the base path for the course web by extracting 'courses' + courseName + quarter
+      var fullPathArray = window.location.pathname.split('/');
+      var basePathArray = fullPathArray.slice(0,4);
+      var basePath = basePathArray.join('/');
+
+      // CSS files to load
+      var cssSources = [
+        '/site/css/bootstrap.min.css',
+        '/site/css/main.css',
+        '/site/css/menu.css',
+      ];
+
+      // Javscript files to load
+      var jsSources = [
+        '/site/js/jquery.min.js',
+        '/site/js/bootstrap.min.js',
+        '/site/js/nav-bar.js',
+        '/site/js/footer.js'
+      ];
+  
+      // Include the script that will load the CSS & Javscript files
+      document.write("<script src=\'" + basePath + "/site/js/load-sources.js\'><\/script>");
+    </script>
+  </head>
+
+  <body>
+    <header class="site-header">
+    <!-- Javascript will load the navigation bar code here. -->
+    </header>
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-sm-3 col-md-2" style="border-right: 1px solid #f5f5f5;">
+          <ul class="nav nav-sidebar">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../syllabus.html">Syllabus</a></li>
+            <li><a href="../exams.html">Exams</a></li>
+            <li><a href="../grading.html">Grading</a></li>
+            <li><a href="../resources.html">Resources</a></li>
+            <li><a href="ed-todo">Message board</a></li>
+            <li><a href="https://canvas.uw.edu/courses/1578895">Canvas</a></li>
+          </ul>
+        </div>
+
+        <div class="col-sm-9 col-md-10">
+          <h2>Zoom</h2>
+
+          <p>We will use Zoom to conduct some course activities during the
+          quarter.</p>
+
+          <p>Zoom is a separate application that you will need to install
+          before using. You must have an account to use it. However, all UW
+          faculty, staff, and students have Zoom Pro accounts already created
+          for them as of early March.</p>
+
+          <p>Tutorial videos and other useful information about using Zoom are
+          available on
+          <a href="https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/">this page</a>.
+          In short, once you have installed the application, you should be able
+          to log into Zoom by clicking on the "SSO" login option, which will
+          direct you to a UW web page to sign in using your UW NetID.</p>
+
+          <h3>Office Hours</h3>
+
+          <p>While lecture and quiz sections are large
+          group meetings, office hours are intended to be one-on-one
+          discussions with a staff member. When you join the meeting, you are
+          "waiting in line" for your turn.  When the host is free, they will
+          "let you in to the meeting" and then you will have a one-on-one video
+          chat with them.</p>
+
+          <p>In more detail:
+          <ol>
+          <li><p>When you click on the link you will see a message like "Please
+            wait, the meeting host will let you in soon".</p></li>
+
+          <li><p>As soon as the TA is free, they will let you into the meeting
+            and you should see them on video!</p></li>
+          </ol>
+
+          <p>Depending on the device you are using, you can use camera, voice,
+          text chatting, and screen sharing to get your question answered.</p>
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+    <!-- Javascript will load the footer code here. -->
+    </footer>
+  </body>
+
+</html>

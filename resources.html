@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Resources &mdash; CSE 311 22au</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- This script dynamically loads CSS and JS files from the course base directory -->
+    <!-- Only edit if you want to change the paths to your JS/CSS sources -->
+    <script>
+      // Get the base path for the course web by extracting 'courses' + courseName + quarter
+      var fullPathArray = window.location.pathname.split('/');
+      var basePathArray = fullPathArray.slice(0,4);
+      var basePath = basePathArray.join('/');
+
+      // CSS files to load
+      var cssSources = [
+        '/site/css/bootstrap.min.css',
+        '/site/css/main.css',
+        '/site/css/menu.css',
+      ];
+
+      // Javscript files to load
+      var jsSources = [
+        '/site/js/jquery.min.js',
+        '/site/js/bootstrap.min.js',
+        '/site/js/nav-bar.js',
+        '/site/js/footer.js'
+      ];
+  
+      // Include the script that will load the CSS & Javscript files
+      document.write("<script src=\'" + basePath + "/site/js/load-sources.js\'><\/script>");
+    </script>
+  </head>
+
+  <body>
+    <header class="site-header">
+    <!-- Javascript will load the navigation bar code here. -->
+    </header>
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-sm-3 col-md-2" style="border-right: 1px solid #f5f5f5;">
+          <ul class="nav nav-sidebar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="syllabus.html">Syllabus</a></li>
+            <li><a href="exams.html">Exams</a></li>
+            <li><a href="grading.html">Grading</a></li>
+            <li class="active-tb">Resources</li>
+            <li><a href="https://edstem.org/us/courses/29746/discussion">Message board</a></li>
+            <li><a href="https://canvas.uw.edu/courses/1578895">Canvas</a></li>
+          </ul>
+        </div>
+
+        <div class="col-sm-9 col-md-10">
+
+<h2>Software</h2>
+
+<p>Information on <i>optional</i> software that you may want to use during the
+course</p>
+
+<ul>
+<li><a href="resources/zoom.html">Zoom</a> video conferencing</li>
+
+<li><a href="resources/typesetting.html">LaTeX</a> typesetting</li>
+</ul>
+
+<h2>Reference Sheets</h2>
+
+<p>Concise notes on important topics covered during the course</p>
+
+<ul>
+<li><a href="resources/LogicalEquivalence.pdf">Logical Equivalences</a>
+(and <a href="resources/logicalConnectPoster.pdf">slide version</a>)</li>
+
+<li><a href="resources/BooleanAlgebra.pdf">Boolean Algebra Identities</a></li>
+
+<li><a href="resources/InferenceRules.pdf">Inference Rules</a>
+(and <a href="resources/inferencesPoster.pdf">slide version</a>)</li>
+
+<li><a href="resources/NumberTheoryDefinitions.pdf">Number Theory Definitions</a></li>
+
+<li><a href="resources/set-theory-ref.pdf">Set Theory Definitions</a></li>
+</ul>
+
+<h2>Documents</h2>
+
+<p>Longer discussions with helpful information on course topics</p>
+
+<ul>
+<li><a href="resources/translation-tips.pdf">Tips for Translating</a> between English and Logic</li>
+
+<li><a href="resources/proof-tips.pdf">Proof Tips</a></li>
+
+<li><a href="resources/proof-techniques.pdf">Proof Techniques</a></li>
+
+<li><a href="resources/induction-templates.pdf">Proof Templates</a> for the
+three types of induction arguments</li>
+
+<li><a href="resources/reading03-backwards.pdf">Backwards Proofs</a>: why they
+are invalid and how to fix them</li>
+</ul>
+
+<!--
+Induction templates.
+Proof techniques from this course.
+Proof tips for navigating difficult proofs in general.
+-->
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+    <!-- Javascript will load the footer code here. -->
+    </footer>
+  </body>
+
+</html>

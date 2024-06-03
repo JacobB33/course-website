@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Typesetting &mdash; CSE 311 23sp</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- This script dynamically loads CSS and JS files from the course base directory -->
+    <!-- Only edit if you want to change the paths to your JS/CSS sources -->
+    <script>
+      // Get the base path for the course web by extracting 'courses' + courseName + quarter
+      var fullPathArray = window.location.pathname.split('/');
+      var basePathArray = fullPathArray.slice(0,4);
+      var basePath = basePathArray.join('/');
+
+      // CSS files to load
+      var cssSources = [
+        '/site/css/bootstrap.min.css',
+        '/site/css/main.css',
+        '/site/css/menu.css',
+      ];
+
+      // Javscript files to load
+      var jsSources = [
+        '/site/js/jquery.min.js',
+        '/site/js/bootstrap.min.js',
+        '/site/js/nav-bar.js',
+        '/site/js/footer.js'
+      ];
+  
+      // Include the script that will load the CSS & Javscript files
+      document.write("<script src=\'" + basePath + "/site/js/load-sources.js\'><\/script>");
+    </script>
+  </head>
+
+  <body>
+    <header class="site-header">
+    <!-- Javascript will load the navigation bar code here. -->
+    </header>
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-sm-3 col-md-2" style="border-right: 1px solid #f5f5f5;">
+          <ul class="nav nav-sidebar">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../syllabus.html">Syllabus</a></li>
+            <li><a href="../exams.html">Exams</a></li>
+            <li><a href="../grading.html">Grading</a></li>
+            <li><a href="../resources.html">Resources</a></li>
+            <li><a href="ed-todo">Message board</a></li>
+            <li><a href="https://canvas.uw.edu/courses/1578895">Canvas</a></li>
+          </ul>
+        </div>
+
+        <div class="col-sm-9 col-md-10">
+<h2>Typesetting</h2>
+
+<p>Students are <b>not required</b> to type their homework solutions. However,
+solutions are required to be legible, and typesetting is one way to ensure that
+they are easy to read. However, students should be warned that the software is
+not always easy to use. In the past, some students have spent several hours
+trying to make their solution look the way they want, which is neither
+necessary nor advisable.</p>
+
+<p><b>LaTeX</b> is the standard tool for typesetting mathematical materials.
+While it takes some time to learn, it will likely pay for itself in the long
+run. LaTeX math notation is also supported in some places outside of LaTeX
+documents, such as on the message board.</p>
+
+<p>A former CSE 311 instructor, Adam Blank, has provided these documents, which
+may be useful:
+<ul>
+  <li>A <a href="https://www.countablethoughts.com/documents/homework-anon.tex">template</a> LaTeX file to use for CSE 311 homework assigments.</li>
+  <li>A <a href="https://www.countablethoughts.com/documents/HowToLaTeX.pdf">tutorial</a> on LaTeX, including specific information on how to use the template.</li>
+</ul>
+</p>
+
+<p>Note that LaTeX does not need to be installed on a local computer. You can
+use it in a web browser at the <a href="https://www.overleaf.com/">Overleaf</a>
+website.</p>
+
+<p>Note that LaTeX is not the best tool for every job. In particular, for
+drawing circuits, finite state machines, and other diagrams, it is often
+preferable to draw them by hand, take a picture, and include it in the LaTeX
+document using the <tt>\includegraphics{FILE_NAME}</tt> command. Furthermore,
+as noted above, handwritten solutions are allowed for the other parts of
+homework assignments as well, provided that the writing is easy to read.</p>
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+    <!-- Javascript will load the footer code here. -->
+    </footer>
+  </body>
+
+</html>
