@@ -120,7 +120,7 @@
             <div class="day  section-day odd">
                 <div class="date-and-type">
                     <div class="type">Section 1</div>
-                    <div class="date">(Thu, Mar 30)</div>
+                    <div class="date">(Thu, June 20)</div>
                 </div>
                 <div class="topic">
 			Propositional Logic & Equivalences
@@ -134,7 +134,7 @@
             <div class="day  lecture-day even">
                 <div class="date-and-type">
                     <div class="type">Lecture 3</div>
-                    <div class="date">(Fri, Mar 31)</div>
+                    <div class="date">(Fri, June 21)</div>
                 </div>
                 <div class="topic">
 			Circuits
