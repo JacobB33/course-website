@@ -131,9 +131,10 @@
                 </div>
             </div>
 
+
             <div class="day  lecture-day even">
                 <div class="date-and-type">
-                    <div class="type">Lecture 3</div>
+                    <div class="type">Lecture 2</div>
                     <div class="date">(Fri, June 21)</div>
                 </div>
                 <div class="topic">
@@ -142,7 +143,6 @@
                 <div class="materials ">
                     <a href="lectures/lecture03-circuits.pdf" target="_blank" class="rect green styled-url">slides</a>
 		            <a href="lectures/lecture03-circuits-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-		            <a href="lectures/lecture03-circuits-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
                    <br/>
 		   <a href= ""
                 target="_blank" class="rect red styled-url">Related: Rosen
@@ -153,19 +153,18 @@
             <div class="week "><div class="date-and-type">Week 2</div></div>
 
 
+
             <div class="day  lecture-day odd">
                 <div class="date-and-type">
-                    <div class="type">Lecture 4</div>
-                    <div class="date">(Mon, Apr 3)</div>
+                    <div class="type">Lecture 3</div>
+                    <div class="date">(Mon, June 24)</div>
                 </div>
                 <div class="topic">
 			Boolean algebra, Canonical Forms
                 </div>
                 <div class="materials ">
                     <a href="lectures/lecture04-booleanalgebra.pdf" target="_blank" class="rect green styled-url">slides</a>
-                    <a href="lectures/lecture04-booleanalgebra-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>                    
-                    <a href="lectures/lecture04-booleanalgebra-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                    
+                    <a href="lectures/lecture04-booleanalgebra-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>                                        
                    <br/>
 		   <a href= ""
                 target="_blank" class="rect red styled-url">Related: Rosen
@@ -174,10 +173,11 @@
                 </div>
             </div>
 
+
             <div class="day  lecture-day even">
                 <div class="date-and-type">
-                    <div class="type">Lecture 5</div>
-                    <div class="date">(Wed, Apr 5)</div>
+                    <div class="type">Lecture 4</div>
+                    <div class="date">(Wed, June 26)</div>
                 </div>
                 <div class="topic">
 			Canonical Forms, Predicate Logic
@@ -185,7 +185,6 @@
 		<div class="materials ">
                     <a href="lectures/lecture05-fol.pdf" target="_blank" class="rect green styled-url">slides</a>
                     <a href="lectures/lecture05-fol-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                    <a href="lectures/lecture05-fol-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
                    <br/>
 		   <a href= ""
                 target="_blank" class="rect red styled-url">Related: Rosen
@@ -200,52 +199,44 @@
             <div class="day  section-day odd">
                 <div class="date-and-type">
                     <div class="type">Section 2</div>
-                    <div class="date">(Thu, Apr 6)</div>
+                    <div class="date">(Thu, June 27)</div>
                 </div>
                 <div class="topic">
 			Circuits & Predicate Logic
                 </div>
 		<div class="materials ">
-		   <a href="sections/section02.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                   <a href="sections/section02_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
                 </div>
             </div>
 
+
             <div class="day  lecture-day even">
                 <div class="date-and-type">
-                    <div class="type">Lecture 6</div>
-                    <div class="date">(Fri, Apr 7)</div>
+                    <div class="type">Lecture 5</div>
+                    <div class="date">(Fri, June 28)</div>
                 </div>
                 <div class="topic">
 			Predicate Logic, Inference
                 </div>
                 <div class="materials ">
-                    <a href="lectures/lecture06-morefolinference.pdf" target="_blank" class="rect green styled-url">slides</a>
-                    <a href="lectures/lecture06-morefolinference-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                    <a href="lectures/lecture06-morefolinference-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                   <br/>
 		   <a href= ""
                 target="_blank" class="rect red styled-url">Related: Rosen
                 1.6</a>
 		</div>
             </div>
 
+
             <div class="week "><div class="date-and-type">Week 3</div></div>
 
             <div class="day  lecture-day odd">
                 <div class="date-and-type">
-                    <div class="type">Lecture 7</div>
-                    <div class="date">(Mon, Apr 10)</div>
+                    <div class="type">Lecture 6</div>
+                    <div class="date">(Mon, July 1)</div>
                 </div>
                 <div class="topic">
 			Propositional & Predicate Logic Proofs
 		   </div>
 
                 <div class="materials ">
-                    <a href="lectures/lecture07-moreproofs.pdf" target="_blank" class="rect green styled-url">slides</a>
-                    <a href="lectures/lecture07-moreproofs-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                    <a href="lectures/lecture07-moreproofs-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                   <br/>
 		   <a href= ""
                 target="_blank" class="rect red styled-url">Related: Rosen
                 1.6-1.7</a>
