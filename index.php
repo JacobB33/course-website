@@ -242,58 +242,37 @@
             <div class="day  lecture-day even">
               <div class="date-and-type">
                 <div class="type">Lecture 7</div>
-                <div class="date">(Wed, July 12)</div>
+                <div class="date">(Wed, July 3)</div>
               </div>
               <div class="topic">
                 Predicate Logic Proofs, English Proofs
               </div>
               <div class="materials">
-                <a href="lectures/lecture08-englishproofs.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture08-englishproofs-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture08-englishproofs-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 1.7-1.8</a>
-                <a href="homework/homework03.pdf" target="_blank" class="rect
-		  styled-url">HW3 Out</a>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW2 Due</a>
               </div>
             </div>
 
             <div class="day section-day odd">
               <div class="date-and-type">
                 <div class="type">Section 3</div>
-                <div class="date">(Thu, July 13)</div>
+                <div class="date">(Thu, July 4)</div>
               </div>
               <div class="topic">
                 Predicate Logic, Proofs
               </div>
               <div class="materials ">
-                <a href="sections/section03.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section03_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 9</div>
-                <div class="date">(Fri, July 14)</div>
+                <div class="type">Lecture 8</div>
+                <div class="date">(Fri, July 5)</div>
               </div>
               <div class="topic">
                 English Proof Strategies, Number Theory
               </div>
               <div class="materials ">
-                <a href="lectures/lecture09-strategiesnumtheory.pdf" target="_blank"
-                  class="rect green styled-url">slides</a>
-                <a href="lectures/lecture09-strategiesnumtheory-A.pdf" target="_blank"
-                  class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture09-strategiesnumtheory-B.pdf" target="_blank"
-                  class="rect green styled-url">annotated (B)</a>
-
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 1.8, 4.1</a>
               </div>
             </div>
@@ -304,73 +283,51 @@
 
             <div class="day  lecture-day odd">
               <div class="date-and-type">
-                <div class="type">Lecture 10</div>
-                <div class="date">(Mon, July 17)</div>
+                <div class="type">Lecture 9</div>
+                <div class="date">(Mon, July 8)</div>
               </div>
               <div class="topic">
                 Modular Arithmetic
               </div>
               <div class="materials ">
-                <a href="lectures/lecture10-mod.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture10-mod-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture10-mod-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 4.1</a>
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 11</div>
-                <div class="date">(Wed, July 19)</div>
+                <div class="type">Lecture 10</div>
+                <div class="date">(Wed, July 10)</div>
               </div>
               <div class="topic">
                 Applications of Modular Arithmetic, Prime Factorization, GCD
               </div>
               <div class="materials ">
-                <a href="lectures/lecture11-primesgcd.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture11-primesgcd-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture11-primesgcd-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 4.3</a>
-                <a href="homework/homework04.pdf" target="_blank" class="rect
-		  styled-url">HW4 Out</a>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW3 Due</a>
               </div>
             </div>
 
             <div class="day  section-day odd">
               <div class="date-and-type">
                 <div class="type">Section 4</div>
-                <div class="date">(Thurs, July 20)</div>
+                <div class="date">(Thurs, July 11)</div>
               </div>
               <div class="topic">
                 Number Theory
               </div>
               <div class="materials ">
-                <a href="sections/section04.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section04_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 12</div>
-                <div class="date">(Fri, July 21)</div>
+                <div class="type">Lecture 11</div>
+                <div class="date">(Fri, July 12)</div>
               </div>
               <div class="topic">
                 Modular Equations, Exponentiation, Set Theory
               </div>
               <div class="materials ">
-                <a href="lectures/lecture12-modexpsets.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture12-modexpsets-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture12-modexpsets-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 4.4.2, 4.2.4,
                   2.1</a>
               </div>
@@ -382,73 +339,52 @@
 
             <div class="day  lecture-day odd">
               <div class="date-and-type">
-                <div class="type">Lecture 13</div>
-                <div class="date">(Mon, July 24)</div>
+                <div class="type">Lecture 12</div>
+                <div class="date">(Mon, July 15)</div>
               </div>
               <div class="topic">
                 Set Theory
               </div>
               <div class="materials ">
-                <a href="lectures/lecture13-sets.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture13-sets-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture13-sets-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 2.1-2.2</a>
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 14</div>
-                <div class="date">(Wed, July 26)</div>
+                <div class="type">Lecture 13</div>
+                <div class="date">(Wed, July 17)</div>
               </div>
               <div class="topic">
                 Induction
               </div>
               <div class="materials ">
-                <a href="lectures/lecture14-induction.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture14-induction-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture14-induction-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.1</a>
-                <a href="homework/homework05.pdf" target="_blank" class="rect
-		  styled-url">HW5 Out</a>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW4 Due</a>
               </div>
             </div>
 
             <div class="day  section-day odd">
               <div class="date-and-type">
                 <div class="type">Section 5</div>
-                <div class="date">(Thu, July 27)</div>
+                <div class="date">(Thu, July 18)</div>
               </div>
               <div class="topic">
                 Modular Exponentiation, Set Theory, Induction
               </div>
               <div class="materials ">
-                <a href="sections/section05.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section05_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
+
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 15</div>
-                <div class="date">(Fri, July 28)</div>
+                <div class="type">Lecture 14</div>
+                <div class="date">(Fri, July 19)</div>
               </div>
               <div class="topic">
                 Strong Induction and Recursion
               </div>
               <div class="materials ">
-                <a href="lectures/lecture15-recursivedefs.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture15-recursivedefs-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture15-recursivedefs-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.2-5.3</a>
               </div>
             </div>
@@ -459,76 +395,51 @@
 
             <div class="day  lecture-day odd">
               <div class="date-and-type">
-                <div class="type">Lecture 16</div>
-                <div class="date">(Mon, May 1)</div>
+                <div class="type">Lecture 15</div>
+                <div class="date">(Mon, July 22)</div>
               </div>
               <div class="topic">
                 Recursively Defined Sets and Structural Induction
               </div>
               <div class="materials ">
-                <a href="lectures/lecture16-recursivesets.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture16-recursivesets-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture16-recursivesets-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.3</a>
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 17</div>
-                <div class="date">(Wed, May 3)</div>
+                <div class="type">Lecture 16</div>
+                <div class="date">(Wed, July 24)</div>
               </div>
               <div class="topic">
                 More Structural Induction
               </div>
               <div class="materials ">
-                <a href="lectures/lecture17-structuralinduction.pdf" target="_blank"
-                  class="rect green styled-url">slides</a>
-                <a href="lectures/lecture17-structuralinduction-A.pdf" target="_blank"
-                  class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture17-structuralinduction-B.pdf" target="_blank"
-                  class="rect green styled-url">annotated (B)</a>
-                <br>
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.3</a>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW5 Due</a>
-
               </div>
             </div>
 
             <div class="day  section-day odd">
               <div class="date-and-type">
                 <div class="type">Section 6</div>
-                <div class="date">(Thu, May 4)</div>
+                <div class="date">(Thu, July 25)</div>
               </div>
               <div class="topic">
                 Induction: Ordinary, Strong, Structural
               </div>
               <div class="materials ">
-                <a href="sections/section06.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section06_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
-                <br />
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 18</div>
-                <div class="date">(Fri, May 5)</div>
+                <div class="type">Lecture 17</div>
+                <div class="date">(Fri, July 26)</div>
               </div>
               <div class="topic">
                 Strings and Regular Expressions
               </div>
               <div class="materials ">
-                <a href="lectures/lecture18-stringsregular.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture18-stringsregular-A.pdf" target="_blank"
-                  class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture18-stringsregular-B.pdf" target="_blank"
-                  class="rect green styled-url">annotated (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 13.4.1</a>
               </div>
             </div>
@@ -539,67 +450,50 @@
 
             <div class="day  lecture-day odd">
               <div class="date-and-type">
-                <div class="type">Lecture 19</div>
-                <div class="date">(Mon, May 8)</div>
+                <div class="type">Lecture 18</div>
+                <div class="date">(Mon, July 29)</div>
               </div>
               <div class="topic">
                 Context-Free Grammars (CFGs)
               </div>
               <div class="materials ">
-                <a href="lectures/lecture19-cfgs.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture19-cfgs-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture19-cfgs-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 13.1.4</a>
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Midterm</div>
-                <div class="date">(Wed, May 10)</div>
+                <div class="type">Lecture 19</div>
+                <div class="date">(Wed, July 31)</div>
               </div>
               <div class="topic">
-                <b>Midterm</b>
+                <b>Something</b>
               </div>
               <div class="materials">
-                <a href="homework/homework06.pdf" target="_blank" class="rect
-		  styled-url">HW6 Out</a>
-                <br />
-
               </div>
             </div>
 
             <div class="day  section-day odd">
               <div class="date-and-type">
                 <div class="type">Section 7</div>
-                <div class="date">(Thurs, May 11)</div>
+                <div class="date">(Thurs, August 1)</div>
               </div>
               <div class="topic">
                 Induction, Regular Expressions
               </div>
               <div class="materials ">
-                <a href="sections/section07.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section07_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
-                <br />
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
                 <div class="type">Lecture 20</div>
-                <div class="date">(Fri, May 12)</div>
+                <div class="date">(Fri, August 2)</div>
               </div>
               <div class="topic">
                 CFGs and Relations
               </div>
               <div class="materials ">
-                <a href="lectures/lecture20-relations.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture20-relations-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture20-relations-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 13.1.4,9.1,9.3</a>
               </div>
             </div>
@@ -611,74 +505,49 @@
             <div class="day  lecture-day odd">
               <div class="date-and-type">
                 <div class="type">Lecture 21</div>
-                <div class="date">(Mon, May 15)</div>
+                <div class="date">(Mon, August 5)</div>
               </div>
               <div class="topic">
                 Directed Graphs, Finite State Machines (FSMs)
               </div>
               <div class="materials ">
-                <a href="lectures/lecture21-digraphsdfas.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture21-digraphsdfas-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture21-digraphsdfas-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen 9.1,9.3</a>
-
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
                 <div class="type">Lecture 22</div>
-                <div class="date">(Wed, May 17)</div>
+                <div class="date">(Wed, August 7)</div>
               </div>
               <div class="topic">
                 Finite State Machine Design
               </div>
               <div class="materials ">
-                <a href="lectures/lecture22-dfadesign.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture22-dfadesign-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture22-dfadesign-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
-                <a href="homework/homework07.pdf" target="_blank" class="rect
-		  styled-url">HW7 Out</a>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW6 Due</a>
               </div>
             </div>
 
             <div class="day  section-day odd">
               <div class="date-and-type">
                 <div class="type">Section 8</div>
-                <div class="date">(Thurs, May 18)</div>
+                <div class="date">(Thurs, August 8)</div>
               </div>
               <div class="topic">
                 CFGs, Relations, Finite State Machines
               </div>
               <div class="materials ">
-                <a href="sections/section08.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section08_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
                 <div class="type">Lecture 23</div>
-                <div class="date">(Fri, May 19)</div>
+                <div class="date">(Fri, August 9)</div>
               </div>
               <div class="topic">
                 Minimization, NFAs
               </div>
               <div class="materials ">
-                <a href="lectures/lecture23-minimization.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture23-minimization-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture23-minimization-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
               </div>
             </div>
 
@@ -689,166 +558,52 @@
             <div class="day  lecture-day odd">
               <div class="date-and-type">
                 <div class="type">Lecture 24</div>
-                <div class="date">(Mon, May 22)</div>
+                <div class="date">(Mon, August 12)</div>
               </div>
               <div class="topic">
                 NFAs, RegExp, NFAs to DFAs
               </div>
               <div class="materials ">
-                <a href="lectures/lecture24-nfas.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture24-nfas-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture24-nfas-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                <br />
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
                 <div class="type">Lecture 25</div>
-                <div class="date">(Wed, May 24)</div>
+                <div class="date">(Wed, August 14)</div>
               </div>
               <div class="topic">
                 The Limitations of DFA/NFA/RegExp
               </div>
               <div class="materials ">
-                <a href="lectures/lecture25-irregularity.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture25-irregularity-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture25-irregularity-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
-                <a href="homework/homework08.pdf" target="_blank" class="rect
-		  styled-url">HW8 Out</a>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW7 Due</a>
-              </div>
-            </div>
-
-            <div class="day  section-day odd">
-              <div class="date-and-type">
-                <div class="type">Section 9</div>
-                <div class="date">(Thurs, May 25)</div>
-              </div>
-              <div class="topic">
-                FSM Minimization, NFAs, Subset Construction, Irregularity
-              </div>
-              <div class="materials empty">
-                <a href="sections/section09.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section09_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
-              </div>
-            </div>
-
-            <div class="day  lecture-day even">
-              <div class="date-and-type">
-                <div class="type">Lecture 26</div>
-                <div class="date">(Fri, May 26)</div>
-              </div>
-              <div class="topic">
-                Cardinality, Uncomputability
-              </div>
-              <div class="materials empty">
-                <a href="lectures/lecture26-cardinality.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture26-cardinality-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture26-cardinality-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
-              </div>
-            </div>
-
-            <div class="week ">
-              <div class="date-and-type">Week 10</div>
-            </div>
-
-            <div class="day  lecture-day odd">
-              <div class="date-and-type">
-                <div class="type"></div>
-                <div class="date">(Mon, May 29)</div>
-              </div>
-              <div class="topic">
-                <strong>No Lecture: Memorial Day</strong>
-                <!--  -->
-              </div>
-              <div class="materials ">
-
-              </div>
-            </div>
-
-            <div class="day  lecture-day even">
-              <div class="date-and-type">
-                <div class="type">Lecture 27</div>
-                <div class="date">(Wed, May 31)</div>
-              </div>
-              <div class="topic">
-                Undecidability of the Halting Problem
-              </div>
-              <div class="materials ">
-                <a href="lectures/lecture27-halting.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture27-halting-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <a href="lectures/lecture27-halting-B.pdf" target="_blank" class="rect green styled-url">annotated
-                  (B)</a>
-                <br />
 
               </div>
             </div>
 
             <div class="day  section-day odd">
               <div class="date-and-type">
-                <div class="type">Section 10</div>
-                <div class="date">(Thu, Jun 1)</div>
+                <div class="type">Final Exam Part 1</div>
+                <div class="date">(Thurs, August 25)</div>
               </div>
               <div class="topic">
-                Review
+                First part of the Final Exam durring section time
               </div>
-              <div class="materials ">
-                <a href="sections/section10.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section10_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
-
+              <div class="materials empty">
               </div>
             </div>
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Lecture 28</div>
-                <div class="date">(Fri, Jun 2)</div>
+                <div class="type">Final Exam Part 2</div>
+                <div class="date">(Fri, August 16)</div>
               </div>
               <div class="topic">
-                Turing Machines and Reductions
+                The second part of the Final Exam
               </div>
-              <div class="materials ">
-                <a href="lectures/lecture28-tms.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture28-tms-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture28-tms-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
-                <br>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW8 Due</a>
-              </div>
-            </div>
-
-
-            <div class="week ">
-              <div class="date-and-type">Exam Week</div>
-            </div>
-
-            <div class="day  lecture-day odd">
-              <div class="date-and-type">
-                <div class="type">Final Exam</div>
-                <div class="date">(Mon, Jun 5)</div>
-              </div>
-              <div class="topic">
-                Final exams are scheduled at 2:30-4:20 pm and 4:30-6:20 pm in JHN 102 rather than our
-                regular classroom. <br>(You will need to select one of these two times to take your exam
-                and confirm your choice by Saturday June 3.)
-                <!--  -->
-              </div>
-              <div class="materials ">
+              <div class="materials empty">
 
               </div>
             </div>
-
-
-
 
 
             <p>This course website heavily follows the example of the website of <a
