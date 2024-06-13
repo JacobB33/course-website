@@ -11,7 +11,7 @@
   <meta name="description"
     content="Course website for CSE 311, Foundations of Computing I at the University of Washington">
   <meta name="keywords"
-    content="CSE 311, logic, discrete math, University of Washington, UW, Washington, computer science">
+    content="CSE 311, logic, discrete math, University of Washington, UW, Washington, computer science, Jacob Berg">
 
   <base href="https://courses.cs.washington.edu/courses/cse311/24su/">
 
@@ -86,9 +86,9 @@
                 Propositional Logic</br>
               </div>
               <div class="materials">
-                <a href="lectures/lecture01-logic.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <!-- <a href="lectures/lecture01-logic.pdf" target="_blank" class="rect green styled-url">slides</a>
                 <a href="lectures/lecture01-logic-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture01-logic-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a>
+                <a href="lectures/lecture01-logic-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a> -->
 
 
                 <br />
@@ -97,8 +97,8 @@
 		  target="_blank" class="rect green styled-url">review</a>
 		  
 		    -->
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  1.1</a>
+                <!-- <a href="" target="_blank" class="rect red styled-url">Related: Rosen
+                  1.1</a> -->
               </div>
             </div>
 
@@ -118,11 +118,11 @@
                 <div class="date">(Thu, June 20)</div>
               </div>
               <div class="topic">
-                Propositional Logic & Equivalences
+                Propositional Logic and Vacuous Truth
               </div>
               <div class="materials ">
-                <a href="sections/section01.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section01_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
+                <!-- <a href="sections/section01.pdf" target="_blank" class="rect purple styled-url">materials</a>
+                <a href="sections/section01_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a> -->
               </div>
             </div>
 
@@ -133,15 +133,15 @@
                 <div class="date">(Fri, June 21)</div>
               </div>
               <div class="topic">
-                Circuits
+                Propositions, Equivalences
               </div>
               <div class="materials ">
-                <a href="lectures/lecture03-circuits.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <!-- <a href="lectures/lecture03-circuits.pdf" target="_blank" class="rect green styled-url">slides</a>
                 <a href="lectures/lecture03-circuits-A.pdf" target="_blank" class="rect green styled-url">annotated
                   (A)</a>
                 <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  12.3</a>
+                  12.3</a> -->
               </div>
             </div>
 
@@ -157,15 +157,15 @@
                 <div class="date">(Mon, June 24)</div>
               </div>
               <div class="topic">
-                Boolean algebra, Canonical Forms
+                Formal Proofs and Equivalences
               </div>
               <div class="materials ">
-                <a href="lectures/lecture04-booleanalgebra.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <!-- <a href="lectures/lecture04-booleanalgebra.pdf" target="_blank" class="rect green styled-url">slides</a>
                 <a href="lectures/lecture04-booleanalgebra-A.pdf" target="_blank"
                   class="rect green styled-url">annotated (A)</a>
                 <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  12.1</a>
+                  12.1</a> -->
 
               </div>
             </div>
@@ -177,10 +177,10 @@
                 <div class="date">(Wed, June 26)</div>
               </div>
               <div class="topic">
-                Canonical Forms, Predicate Logic
+                Predicate Logic
               </div>
               <div class="materials ">
-                <a href="lectures/lecture05-fol.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <!-- <a href="lectures/lecture05-fol.pdf" target="_blank" class="rect green styled-url">slides</a>
                 <a href="lectures/lecture05-fol-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
                 <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen
@@ -188,7 +188,7 @@
                 <a href="homework/homework02.pdf" target="_blank" class="rect
 		  styled-url">HW2 Out</a>
                 <a href="#" target="_blank" class="rect
-		  styled-url">HW1 Due</a>
+		  styled-url">HW1 Due</a> -->
               </div>
             </div>
 
@@ -198,7 +198,7 @@
                 <div class="date">(Thu, June 27)</div>
               </div>
               <div class="topic">
-                Circuits & Predicate Logic
+                Domain Restriction and Translations
               </div>
               <div class="materials ">
               </div>
@@ -211,11 +211,9 @@
                 <div class="date">(Fri, June 28)</div>
               </div>
               <div class="topic">
-                Predicate Logic, Inference
+                Predicate Logic Conclusion + English Proofs
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  1.6</a>
               </div>
             </div>
 
@@ -230,12 +228,10 @@
                 <div class="date">(Mon, July 1)</div>
               </div>
               <div class="topic">
-                Propositional & Predicate Logic Proofs
+                English Proofs and Number Theory Part 1
               </div>
 
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  1.6-1.7</a>
               </div>
             </div>
 
@@ -245,20 +241,19 @@
                 <div class="date">(Wed, July 3)</div>
               </div>
               <div class="topic">
-                Predicate Logic Proofs, English Proofs
+                English Proofs and Number Theory Part 2
               </div>
               <div class="materials">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 1.7-1.8</a>
               </div>
             </div>
 
             <div class="day section-day odd">
               <div class="date-and-type">
-                <div class="type">Section 3</div>
+                <div class="type">Holiday!</div>
                 <div class="date">(Thu, July 4)</div>
               </div>
               <div class="topic">
-                Predicate Logic, Proofs
+                No School
               </div>
               <div class="materials ">
               </div>
@@ -270,10 +265,9 @@
                 <div class="date">(Fri, July 5)</div>
               </div>
               <div class="topic">
-                English Proof Strategies, Number Theory
+                Number Theory Part 3 + Euclid's Algorithm
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 1.8, 4.1</a>
               </div>
             </div>
 
@@ -287,10 +281,9 @@
                 <div class="date">(Mon, July 8)</div>
               </div>
               <div class="topic">
-                Modular Arithmetic
+                Proof Stratagies
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 4.1</a>
               </div>
             </div>
 
@@ -300,10 +293,9 @@
                 <div class="date">(Wed, July 10)</div>
               </div>
               <div class="topic">
-                Applications of Modular Arithmetic, Prime Factorization, GCD
+                Proof Stratagies
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 4.3</a>
               </div>
             </div>
 
@@ -313,7 +305,7 @@
                 <div class="date">(Thurs, July 11)</div>
               </div>
               <div class="topic">
-                Number Theory
+                Proof Stratagies and Set Theory
               </div>
               <div class="materials ">
               </div>
@@ -325,11 +317,9 @@
                 <div class="date">(Fri, July 12)</div>
               </div>
               <div class="topic">
-                Modular Equations, Exponentiation, Set Theory
+                Set Theory
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 4.4.2, 4.2.4,
-                  2.1</a>
               </div>
             </div>
 
@@ -343,10 +333,9 @@
                 <div class="date">(Mon, July 15)</div>
               </div>
               <div class="topic">
-                Set Theory
+                Induction part 1
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 2.1-2.2</a>
               </div>
             </div>
 
@@ -356,10 +345,9 @@
                 <div class="date">(Wed, July 17)</div>
               </div>
               <div class="topic">
-                Induction
+                Induction part 2
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.1</a>
               </div>
             </div>
 
@@ -369,7 +357,7 @@
                 <div class="date">(Thu, July 18)</div>
               </div>
               <div class="topic">
-                Modular Exponentiation, Set Theory, Induction
+                Induction and Midterm Review
               </div>
               <div class="materials ">
 
@@ -382,10 +370,9 @@
                 <div class="date">(Fri, July 19)</div>
               </div>
               <div class="topic">
-                Strong Induction and Recursion
+                Induction Part 3
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.2-5.3</a>
               </div>
             </div>
 
@@ -399,10 +386,9 @@
                 <div class="date">(Mon, July 22)</div>
               </div>
               <div class="topic">
-                Recursively Defined Sets and Structural Induction
+                Midterm Exam
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.3</a>
               </div>
             </div>
 
@@ -412,10 +398,10 @@
                 <div class="date">(Wed, July 24)</div>
               </div>
               <div class="topic">
-                More Structural Induction
+                Recursively Defined Sets and Structural Induction
+                
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 5.3</a>
               </div>
             </div>
 
@@ -437,10 +423,9 @@
                 <div class="date">(Fri, July 26)</div>
               </div>
               <div class="topic">
-                Strings and Regular Expressions
+                More Structural Induction
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 13.4.1</a>
               </div>
             </div>
 
@@ -454,10 +439,9 @@
                 <div class="date">(Mon, July 29)</div>
               </div>
               <div class="topic">
-                Context-Free Grammars (CFGs)
+                Regular Expressions + CFG Intro
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 13.1.4</a>
               </div>
             </div>
 
@@ -467,7 +451,9 @@
                 <div class="date">(Wed, July 31)</div>
               </div>
               <div class="topic">
-                <b>Something</b>
+                <b>
+                CFGs and DFAs
+                </b>
               </div>
               <div class="materials">
               </div>
@@ -479,7 +465,7 @@
                 <div class="date">(Thurs, August 1)</div>
               </div>
               <div class="topic">
-                Induction, Regular Expressions
+                CFGs, DFA, Regex
               </div>
               <div class="materials ">
               </div>
@@ -491,10 +477,9 @@
                 <div class="date">(Fri, August 2)</div>
               </div>
               <div class="topic">
-                CFGs and Relations
+                DFAs + NFAs
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 13.1.4,9.1,9.3</a>
               </div>
             </div>
 
@@ -508,10 +493,9 @@
                 <div class="date">(Mon, August 5)</div>
               </div>
               <div class="topic">
-                Directed Graphs, Finite State Machines (FSMs)
+                Relating DFAs, NFAs, CFGs, and Regex
               </div>
               <div class="materials ">
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen 9.1,9.3</a>
               </div>
             </div>
 
@@ -521,7 +505,7 @@
                 <div class="date">(Wed, August 7)</div>
               </div>
               <div class="topic">
-                Finite State Machine Design
+                Irregularity
               </div>
               <div class="materials ">
               </div>
@@ -533,7 +517,7 @@
                 <div class="date">(Thurs, August 8)</div>
               </div>
               <div class="topic">
-                CFGs, Relations, Finite State Machines
+               Cardinality
               </div>
               <div class="materials ">
               </div>
@@ -545,7 +529,7 @@
                 <div class="date">(Fri, August 9)</div>
               </div>
               <div class="topic">
-                Minimization, NFAs
+                CFGs, Relations, Finite State Machines
               </div>
               <div class="materials ">
               </div>
@@ -561,7 +545,7 @@
                 <div class="date">(Mon, August 12)</div>
               </div>
               <div class="topic">
-                NFAs, RegExp, NFAs to DFAs
+                Halting Problem
               </div>
               <div class="materials ">
               </div>
@@ -573,7 +557,7 @@
                 <div class="date">(Wed, August 14)</div>
               </div>
               <div class="topic">
-                The Limitations of DFA/NFA/RegExp
+                Buffer / Final Review
               </div>
               <div class="materials ">
 
@@ -582,11 +566,11 @@
 
             <div class="day  section-day odd">
               <div class="date-and-type">
-                <div class="type">Final Exam Part 1</div>
+                <div class="type">Final Exam Review</div>
                 <div class="date">(Thurs, August 25)</div>
               </div>
               <div class="topic">
-                First part of the Final Exam durring section time
+                Review for the final exam
               </div>
               <div class="materials empty">
               </div>
@@ -594,11 +578,11 @@
 
             <div class="day  lecture-day even">
               <div class="date-and-type">
-                <div class="type">Final Exam Part 2</div>
-                <div class="date">(Fri, August 16)</div>
+                <div class="type">Final Exam</div>
+                <div class="date">(Fri, August 16) from 3:30-5:30 PM</div>
               </div>
               <div class="topic">
-                The second part of the Final Exam
+                The Final Exam will be from 3:30-5:30 in room TBD.
               </div>
               <div class="materials empty">
 
