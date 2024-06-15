@@ -43,8 +43,9 @@
 
           <h2 id="announcements-and-updates" class="heading">
             <a class="heading-link" href=".#announcements-and-updates" title="Link to this section"></a>
-            COURSE WEBSITE IN PROGRESS
+            Announcements:
           </h2>
+          Welcome to 311!
 
 
 
