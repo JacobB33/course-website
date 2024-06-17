@@ -45,7 +45,7 @@
             <a class="heading-link" href=".#announcements-and-updates" title="Link to this section"></a>
             Announcements:
           </h2>
-          Welcome to 311!
+          Welcome to 311! Our lectures will be in the Boeing Auditorium (EXED 110).
 
 
 
@@ -137,12 +137,7 @@
                 Propositions, Equivalences
               </div>
               <div class="materials ">
-                <!-- <a href="lectures/lecture03-circuits.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture03-circuits-A.pdf" target="_blank" class="rect green styled-url">annotated
-                  (A)</a>
-                <br />
-                <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  12.3</a> -->
+              <a href="#" target="_blank" class="rect styled-url">HW1 Out</a>
               </div>
             </div>
 
@@ -185,11 +180,8 @@
                 <a href="lectures/lecture05-fol-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
                 <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  1.4-1.5</a>
-                <a href="homework/homework02.pdf" target="_blank" class="rect
-		  styled-url">HW2 Out</a>
-                <a href="#" target="_blank" class="rect
-		  styled-url">HW1 Due</a> -->
+                  1.4-1.5</a> -->
+                
               </div>
             </div>
 
@@ -215,6 +207,8 @@
                 Predicate Logic Conclusion + English Proofs
               </div>
               <div class="materials ">
+              <a href="#" target="_blank" class="rect styled-url">HW2 Out</a>
+                <a href="#" target="_blank" class="rect red styled-url">HW1 Due</a>
               </div>
             </div>
 
@@ -269,6 +263,8 @@
                 Number Theory Part 3 + Euclid's Algorithm
               </div>
               <div class="materials ">
+                <a href="#" target="_blank" class="rect styled-url">HW3 Out</a>
+                <a href="#" target="_blank" class="rect red styled-url">HW2 Due</a>
               </div>
             </div>
 
@@ -321,6 +317,8 @@
                 Set Theory
               </div>
               <div class="materials ">
+                <a href="#" target="_blank" class="rect styled-url">HW4 Out</a>
+                <a href="#" target="_blank" class="rect red styled-url">HW3 Due</a>
               </div>
             </div>
 
@@ -374,6 +372,7 @@
                 Induction Part 3
               </div>
               <div class="materials ">
+                <a href="#" target="_blank" class="rect red styled-url">HW4 Due</a>
               </div>
             </div>
 
@@ -390,6 +389,7 @@
                 Midterm Exam
               </div>
               <div class="materials ">
+                 <a href="#" target="_blank" class="rect styled-url">HW5 Out</a>
               </div>
             </div>
 
@@ -427,6 +427,8 @@
                 More Structural Induction
               </div>
               <div class="materials ">
+                <a href="#" target="_blank" class="rect styled-url">HW6 Out</a>
+                <a href="#" target="_blank" class="rect red styled-url">HW5 Due</a>
               </div>
             </div>
 
@@ -481,6 +483,8 @@
                 DFAs + NFAs
               </div>
               <div class="materials ">
+                <a href="#" target="_blank" class="rect styled-url">HW7 Out</a>
+                <a href="#" target="_blank" class="rect red styled-url">HW6 Due</a>
               </div>
             </div>
 
@@ -533,6 +537,8 @@
                 CFGs, Relations, Finite State Machines
               </div>
               <div class="materials ">
+                <a href="#" target="_blank" class="rect styled-url">HW8 Out</a>
+                <a href="#" target="_blank" class="rect red styled-url">HW7 Due</a>
               </div>
             </div>
 
@@ -561,7 +567,7 @@
                 Buffer / Final Review
               </div>
               <div class="materials ">
-
+                <a href="#" target="_blank" class="rect red styled-url">HW8 Due</a>
               </div>
             </div>
 
