@@ -5,7 +5,7 @@
   <meta charset="utf-8">
 
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
-  <title>CSE 311, Spring 2024</title>
+  <title>CSE 311, Summer 2024</title>
 
   <meta name="author" content="Jacob Berg">
   <meta name="description"
@@ -87,19 +87,8 @@
                 Propositional Logic</br>
               </div>
               <div class="materials">
-                <!-- <a href="lectures/lecture01-logic.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture01-logic-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
-                <a href="lectures/lecture01-logic-B.pdf" target="_blank" class="rect green styled-url">annotated (B)</a> -->
-
-
-                <br />
-                <!--
-                    <a href=""
-		  target="_blank" class="rect green styled-url">review</a>
-		  
-		    -->
-                <!-- <a href="" target="_blank" class="rect red styled-url">Related: Rosen
-                  1.1</a> -->
+                <a href="lectures/Lecture_1_CSE_311.pdf" target="_blank" class="rect green styled-url">slides</a>
+               
               </div>
             </div>
 
@@ -122,8 +111,8 @@
                 Propositional Logic and Vacuous Truth
               </div>
               <div class="materials ">
-                <!-- <a href="sections/section01.pdf" target="_blank" class="rect purple styled-url">materials</a>
-                <a href="sections/section01_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a> -->
+                <a href="sections/section01.pdf" target="_blank" class="rect purple styled-url">materials</a>
+                <a href="sections/section01_solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
               </div>
             </div>
 
