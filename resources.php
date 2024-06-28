@@ -61,12 +61,12 @@
          <p>LaTeX is the standard tool for typesetting mathematical materials. While it takes some time to learn, it will likely pay for itself in the long run. You can even use LaTeX in places like Ed and Facebook Messenger!</p>
          <p>These resources may be helpful for you to get started with LaTeX, with thanks to Adam Blank:</p>
          <ul>
-                <li>A <a href="homework-anon.tex">homework template</a> that you can use. Here is a <a href="homework-anon-sample.pdf">preview</a> of the rendered result.</li>
-                <li>A <a href="HowToLaTeX.pdf">How to LaTeX</a> tutorial, including specific information on how to use the template.</li>
+                <li>A <a href="https://www.overleaf.com/read/dystzrhybtzx#3b7f0f">Simple homework template on Overleaf</a> that you can use, you will need to make a copy. 
+                <li>A <a href="https://www.overleaf.com/read/rnxmrjvgbtrx#e59d4e">How to LaTeX Guide on Overleaf</a> tutorial, including specific information on how to use the template. Here is a <a href="resources/CSE_311_Template.pdf">preview</a> of the rendered result.</li>
         </ul>
 
 
-        <p> <a href="https://www.overleaf.com/">Overleaf</a> is an online editor that spares you from having to install LaTeX locally. Overleaf has some <a href="https://www.overleaf.com/learn">documentation</a>, but you might want to read this <a href="HowToOverleaf.pdf">how-to-overleaf</a> document first. </p>
+        <p> <a href="https://www.overleaf.com/">Overleaf</a> is an online editor that spares you from having to install LaTeX locally. Overleaf has some <a href="https://www.overleaf.com/learn">documentation</a> as well </p>
 
 
         <h2>Formatting</h2>

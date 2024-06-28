@@ -126,7 +126,9 @@
                 Propositions, Equivalences
               </div>
               <div class="materials ">
-              <a href="#" target="_blank" class="rect styled-url">HW1 Out</a>
+              <a href="lectures/lecture-02.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <br>
+              <a href="homework/homework1.pdf" target="_blank" class="rect styled-url">HW1 Out</a>
               </div>
             </div>
 
@@ -145,6 +147,7 @@
                 Formal Proofs and Equivalences
               </div>
               <div class="materials ">
+              <a href="lectures/lecture-03.pdf" target="_blank" class="rect green styled-url">slides</a>
                 <!-- <a href="lectures/lecture04-booleanalgebra.pdf" target="_blank" class="rect green styled-url">slides</a>
                 <a href="lectures/lecture04-booleanalgebra-A.pdf" target="_blank"
                   class="rect green styled-url">annotated (A)</a>
@@ -165,8 +168,8 @@
                 Predicate Logic
               </div>
               <div class="materials ">
-                <!-- <a href="lectures/lecture05-fol.pdf" target="_blank" class="rect green styled-url">slides</a>
-                <a href="lectures/lecture05-fol-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
+                <a href="lectures/lecture-04.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <!--<a href="lectures/lecture05-fol-A.pdf" target="_blank" class="rect green styled-url">annotated (A)</a>
                 <br />
                 <a href="" target="_blank" class="rect red styled-url">Related: Rosen
                   1.4-1.5</a> -->
@@ -183,6 +186,8 @@
                 Domain Restriction and Translations
               </div>
               <div class="materials ">
+              <a href="sections/section-02.pdf" target="_blank" class="rect purple styled-url">materials</a>
+              <a href="sections/section-02-solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
               </div>
             </div>
 
@@ -197,7 +202,8 @@
               </div>
               <div class="materials ">
               <a href="#" target="_blank" class="rect styled-url">HW2 Out</a>
-                <a href="#" target="_blank" class="rect red styled-url">HW1 Due</a>
+                <a href="homework/homework1.pdf" target="_blank" class="rect red styled-url">HW1 Due</a>
+                <a href="lectures/lecture-05.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
