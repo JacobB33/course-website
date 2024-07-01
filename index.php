@@ -201,7 +201,7 @@
                 Predicate Logic Conclusion + English Proofs
               </div>
               <div class="materials ">
-              <a href="#" target="_blank" class="rect styled-url">HW2 Out</a>
+                <a href="homework/homework-02.pdf" target="_blank" class="rect styled-url">HW2 Out</a>
                 <a href="homework/homework1.pdf" target="_blank" class="rect red styled-url">HW1 Due</a>
                 <a href="lectures/lecture-05.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
@@ -218,10 +218,11 @@
                 <div class="date">(Mon, July 1)</div>
               </div>
               <div class="topic">
-                English Proofs and Number Theory Part 1
+                English Proofs and Proof Stratagies
               </div>
 
               <div class="materials ">
+                <a href="lectures/lecture-06.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -231,7 +232,7 @@
                 <div class="date">(Wed, July 3)</div>
               </div>
               <div class="topic">
-                English Proofs and Number Theory Part 2
+                English Proofs and Number Theory Part 1
               </div>
               <div class="materials">
               </div>
@@ -255,7 +256,7 @@
                 <div class="date">(Fri, July 5)</div>
               </div>
               <div class="topic">
-                Number Theory Part 3 + Euclid's Algorithm
+                Number Theory Part 2
               </div>
               <div class="materials ">
                 <a href="#" target="_blank" class="rect styled-url">HW3 Out</a>
@@ -273,7 +274,7 @@
                 <div class="date">(Mon, July 8)</div>
               </div>
               <div class="topic">
-                Proof Stratagies
+                Number Theory Part 3 + Euclid's Algorithm
               </div>
               <div class="materials ">
               </div>
