@@ -235,6 +235,7 @@
                 English Proofs and Number Theory Part 1
               </div>
               <div class="materials">
+                <a href="lectures/lecture-07.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
