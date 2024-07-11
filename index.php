@@ -260,8 +260,9 @@
                 Number Theory Part 2
               </div>
               <div class="materials ">
-                <a href="#" target="_blank" class="rect styled-url">HW3 Out</a>
-                <a href="#" target="_blank" class="rect red styled-url">HW2 Due</a>
+                <a href="lectures/lecture-08.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <a href="homework/homework3.pdf" target="_blank" class="rect styled-url">HW3 Out</a>
+                <a href="homework/homework2.pdf" target="_blank" class="rect red styled-url">HW2 Due</a>
               </div>
             </div>
 
@@ -275,9 +276,10 @@
                 <div class="date">(Mon, July 8)</div>
               </div>
               <div class="topic">
-                Number Theory Part 3 + Euclid's Algorithm
+                Number Theory Part 3 + Proof By Contradiction
               </div>
               <div class="materials ">
+                <a href="lectures/lecture-09.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -290,6 +292,7 @@
                 Proof Stratagies
               </div>
               <div class="materials ">
+                <a href="lectures/lecture-10.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -299,9 +302,10 @@
                 <div class="date">(Thurs, July 11)</div>
               </div>
               <div class="topic">
-                Proof Stratagies and Set Theory
+                Number Theory, Set Theory, and Proof Stratagies
               </div>
               <div class="materials ">
+              <a href="sections/section_3.pdf" target="_blank" class="rect purple styled-url">materials</a>
               </div>
             </div>
 
