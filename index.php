@@ -45,7 +45,7 @@
             <a class="heading-link" href=".#announcements-and-updates" title="Link to this section"></a>
             Announcements:
           </h2>
-          Welcome to 311! Our lectures will be in the Boeing Auditorium (EXED 110).
+          Welcome to 311 for SU 24 instructed by Jacob Berg! Our lectures will be in the Boeing Auditorium (EXED 110).
 
 
 
@@ -306,7 +306,9 @@
               </div>
               <div class="materials ">
               <a href="sections/section_3.pdf" target="_blank" class="rect purple styled-url">materials</a>
-              </div>
+              <a href="sections/section-04-solutions.pdf" target="_blank" class="rect gray styled-url">solutions</a>
+  
+            </div>
             </div>
 
             <div class="day  lecture-day even">
@@ -318,8 +320,9 @@
                 Set Theory
               </div>
               <div class="materials ">
-                <a href="#" target="_blank" class="rect styled-url">HW4 Out</a>
-                <a href="#" target="_blank" class="rect red styled-url">HW3 Due</a>
+                <a href="lectures/lecture-11.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <a href="homework/homework4.pdf" target="_blank" class="rect styled-url">HW4 Out</a>
+                <a href="homework/homework3.pdf" target="_blank" class="rect red styled-url">HW3 Due</a>
               </div>
             </div>
 
@@ -336,6 +339,7 @@
                 Induction part 1
               </div>
               <div class="materials ">
+              <a href="lectures/lecture-12.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -348,6 +352,7 @@
                 Induction part 2
               </div>
               <div class="materials ">
+              <a href="lectures/lecture-13.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -360,6 +365,8 @@
                 Induction and Midterm Review
               </div>
               <div class="materials ">
+              <a href="sections/section-05.pdf" target="_blank" class="rect purple styled-url">materials</a>
+              <a href="sections/section-05-solutions.pdf" target="_blank" class="rect purple styled-url">solutions</a>
 
               </div>
             </div>
@@ -373,7 +380,8 @@
                 Induction Part 3
               </div>
               <div class="materials ">
-                <a href="#" target="_blank" class="rect red styled-url">HW4 Due</a>
+                <a href="lectures/lecture-14.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <a href="homework/homework4.pdf" target="_blank" class="rect red styled-url">HW4 Due</a>
               </div>
             </div>
 
@@ -390,7 +398,7 @@
                 Midterm Exam
               </div>
               <div class="materials ">
-                 <a href="#" target="_blank" class="rect styled-url">HW5 Out</a>
+                 <a href="homework/homework-05.pdf" target="_blank" class="rect styled-url">HW5 Out</a>
               </div>
             </div>
 
@@ -400,10 +408,10 @@
                 <div class="date">(Wed, July 24)</div>
               </div>
               <div class="topic">
-                Recursively Defined Sets and Structural Induction
-                
+                Structural Induction
               </div>
               <div class="materials ">
+			<a href="lectures/lecture-15.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -413,9 +421,11 @@
                 <div class="date">(Thu, July 25)</div>
               </div>
               <div class="topic">
-                Induction: Ordinary, Strong, Structural
+                Set Theory and Induction
               </div>
               <div class="materials ">
+                <a href="sections/section-06.pdf" target="_blank" class="rect purple styled-url">materials</a>
+                <a href="sections/section-06-solutions.pdf" target="_blank" class="rect purple styled-url">solutions</a>
               </div>
             </div>
 
@@ -425,11 +435,12 @@
                 <div class="date">(Fri, July 26)</div>
               </div>
               <div class="topic">
-                More Structural Induction
+                Regular Expressions
               </div>
               <div class="materials ">
-                <a href="#" target="_blank" class="rect styled-url">HW6 Out</a>
-                <a href="#" target="_blank" class="rect red styled-url">HW5 Due</a>
+                <a href="lectures/lecture-17.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <a href="homework/homework6.pdf" target="_blank" class="rect styled-url">HW6 Out</a>
+                <a href="homework/homework-05.pdf" target="_blank" class="rect red styled-url">HW5 Due</a>
               </div>
             </div>
 
@@ -443,9 +454,10 @@
                 <div class="date">(Mon, July 29)</div>
               </div>
               <div class="topic">
-                Regular Expressions + CFG Intro
+                CFGs
               </div>
               <div class="materials ">
+              <a href="lectures/lecture-18.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -455,11 +467,10 @@
                 <div class="date">(Wed, July 31)</div>
               </div>
               <div class="topic">
-                <b>
-                CFGs and DFAs
-                </b>
+                NFAs
               </div>
               <div class="materials">
+                <a href="lectures/lecture-19.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -469,9 +480,11 @@
                 <div class="date">(Thurs, August 1)</div>
               </div>
               <div class="topic">
-                CFGs, DFA, Regex
+                Regex, DFAs, and CFGs
               </div>
               <div class="materials ">
+                <a href="sections/section7.pdf" target="_blank" class="rect purple styled-url">materials</a>
+                <a href="sections/section-7-solutions.pdf" target="_blank" class="rect purple styled-url">solutions</a>
               </div>
             </div>
 
@@ -484,8 +497,9 @@
                 DFAs + NFAs
               </div>
               <div class="materials ">
-                <a href="#" target="_blank" class="rect styled-url">HW7 Out</a>
-                <a href="#" target="_blank" class="rect red styled-url">HW6 Due</a>
+                <a href="lectures/lecture-20.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <a href="homework/homework7.pdf" target="_blank" class="rect styled-url">HW7 Out</a>
+                <a href="homework/homework6.pdf" target="_blank" class="rect red styled-url">HW6 Due</a>
               </div>
             </div>
 
@@ -502,6 +516,7 @@
                 Relating DFAs, NFAs, CFGs, and Regex
               </div>
               <div class="materials ">
+                <a href="lectures/lecture-21.pptx.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -511,9 +526,10 @@
                 <div class="date">(Wed, August 7)</div>
               </div>
               <div class="topic">
-                Irregularity
+              Cardinality
               </div>
               <div class="materials ">
+              <a href="lectures/lecture-22.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -523,9 +539,11 @@
                 <div class="date">(Thurs, August 8)</div>
               </div>
               <div class="topic">
-               Cardinality
+               Irregularity, and NFA/DFA
               </div>
               <div class="materials ">
+                <a href="sections/section8.pdf" target="_blank" class="rect purple styled-url">materials</a>
+                <a href="sections/section-8-solutions.pdf" target="_blank" class="rect purple styled-url">solutions</a>
               </div>
             </div>
 
@@ -535,11 +553,12 @@
                 <div class="date">(Fri, August 9)</div>
               </div>
               <div class="topic">
-                CFGs, Relations, Finite State Machines
+              The Halting Problem
               </div>
               <div class="materials ">
-                <a href="#" target="_blank" class="rect styled-url">HW8 Out</a>
-                <a href="#" target="_blank" class="rect red styled-url">HW7 Due</a>
+                <a href="lectures/lecture-23.pdf" target="_blank" class="rect green styled-url">slides</a>
+                <a href="homework/homework8.pdf" target="_blank" class="rect styled-url">HW8 Out</a>
+                <a href="homework/homework7.pdf" target="_blank" class="rect red styled-url">HW7 Due</a>
               </div>
             </div>
 
@@ -553,9 +572,10 @@
                 <div class="date">(Mon, August 12)</div>
               </div>
               <div class="topic">
-                Halting Problem
+                Final Exam Review
               </div>
               <div class="materials ">
+                <a href="lectures/lecture-24.pdf" target="_blank" class="rect green styled-url">slides</a>
               </div>
             </div>
 
@@ -565,10 +585,10 @@
                 <div class="date">(Wed, August 14)</div>
               </div>
               <div class="topic">
-                Buffer / Final Review
+                Robert Guest Lecture
               </div>
               <div class="materials ">
-                <a href="#" target="_blank" class="rect red styled-url">HW8 Due</a>
+                <a href="homework/homework8.pdf" target="_blank" class="rect red styled-url">HW8 Due</a>
               </div>
             </div>
 
@@ -580,7 +600,9 @@
               <div class="topic">
                 Review for the final exam
               </div>
-              <div class="materials empty">
+              <div class="materials ">
+                <a href="sections/section-09.pdf" target="_blank" class="rect purple styled-url">materials</a>
+                <a href="sections/section-09-soln.pdf" target="_blank" class="rect purple styled-url">solutions</a>
               </div>
             </div>
 
@@ -590,7 +612,7 @@
                 <div class="date">(Fri, August 16) from 3:30-5:30 PM</div>
               </div>
               <div class="topic">
-                The Final Exam will be from 3:30-5:30 in room TBD.
+                The Final Exam will be from 3:30-5:30 in CSE 2 G 20.
               </div>
               <div class="materials empty">
 

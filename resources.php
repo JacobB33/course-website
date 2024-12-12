@@ -54,6 +54,12 @@
     -->
           </ul>
 
+          <h2 id=typesetting>Midterm Exam:</h2><p>
+            See the Ed post about what topics will be covered, but it will be on everything up until lecture 12.
+            <p>A <a href="homework/summer_practice_exam.pdf" target="_blank">Practice Exam</a> and <a href="homework/summer_practice_exam_solutions.pdf" target="_blank">Solutions</a> 
+
+
+
           
 
           <h2 id=typesetting>Typesetting</h2><p>
